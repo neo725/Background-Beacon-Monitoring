@@ -1,0 +1,64 @@
+{
+    "_from": "git+https://github.com/neo725/Background-Beacon-Monitoring.git",
+    "_id": "uk.ac.lancaster.library.backgroundbeacons@0.0.1",
+    "_inBundle": false,
+    "_integrity": "",
+    "_location": "/uk.ac.lancaster.library.backgroundbeacons",
+    "_phantomChildren": {},
+    "_requested": {
+      "type": "git",
+      "raw": "https://github.com/neo725/Background-Beacon-Monitoring.git",
+      "rawSpec": "https://github.com/neo725/Background-Beacon-Monitoring.git",
+      "saveSpec": "git+https://github.com/neo725/Background-Beacon-Monitoring.git",
+      "fetchSpec": "https://github.com/neo725/Background-Beacon-Monitoring.git",
+      "gitCommittish": null
+    },
+    "_requiredBy": [
+      "#USER",
+      "/"
+    ],
+    "_resolved": "git+https://github.com/neo725/Background-Beacon-Monitoring.git#5708cfc5bb20f9d3cad9ecf01f0c6e1b384701df",
+    "_spec": "https://github.com/neo725/Background-Beacon-Monitoring.git",
+    "_where": "C:\\Users\\neochang.HKXF\\Documents\\works\\cordova-projects\\ibeacon-monitor",
+    "author": {
+      "name": "lulibrary",
+      "url": "Somogyvari"
+    },
+    "bugs": {
+      "url": "https://github.com/lulibrary/Background-Beacon-Monitoring/issues"
+    },
+    "bundleDependencies": false,
+    "commitlint": {
+      "extends": [
+        "@commitlint/config-conventional"
+      ]
+    },
+    "cordova": {
+      "id": "uk.ac.lancaster.library.backgroundbeacons",
+      "platforms": [
+        "android"
+      ]
+    },
+    "deprecated": false,
+    "description": "Background Beacon Monitoring",
+    "devDependencies": {
+    },
+    "homepage": "https://github.com/lulibrary/Background-Beacon-Monitoring",
+    "keywords": [
+      "cordova",
+      "ibeacon",
+      "beacon",
+      "bluetooth",
+      "le",
+      "ecosystem:cordova",
+      "cordova-android"
+    ],
+    "license": "Apache 2.0",
+    "name": "uk.ac.lancaster.library.backgroundbeacons",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/neo725/Background-Beacon-Monitoring.git"
+    },
+    "version": "0.0.1"
+  }
+  
